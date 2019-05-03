@@ -18,3 +18,9 @@ description: 群：421259385
 
 翻译原帖: 
 
+{% hint style="info" %}
+浏览器访问说明：请尽量使用Chrome或FireFoxs等主流浏览器
+{% endhint %}
+
+
+
